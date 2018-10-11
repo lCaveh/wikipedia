@@ -66,5 +66,23 @@
 }
 
 .one .panel-body{
-  background-color: #ece3ed;
+  background-color: #ccdae5;
+}
+.three .panel img {
+  width:15%;
+  margin-right: 4%;
+  float: left;
+}
+
+.three .panel-heading {
+  background-color: #ad7cbc;
+}
+
+.three .panel-body{
+  background-color: #dfd5e2;
+}
+
+.jumbotron {
+  padding: 1%;
+  margin: 2%;
 }
